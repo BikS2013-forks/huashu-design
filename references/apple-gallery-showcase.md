@@ -331,7 +331,7 @@ Only shown in the gallery wall scene, fade in/out. Like a museum exhibit label.
 
 ## References
 
-- Complete implementation sample: `/Users/alchain/Documents/Writing/01-WeChat-Articles/Projects/2026.04-huashu-design-launch/Visuals/hero-animation-v5.html`
+- Complete implementation sample: `hero-animation-v5.html` (in the original author's local workspace; not included in this repository)
 - Original inspiration: claude.ai/design hero video
 - Reference aesthetics: Apple product pages, Dribbble shot collection pages
 

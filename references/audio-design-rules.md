@@ -256,5 +256,5 @@ Either layer alone should be self-consistent. If it only sounds good when both a
 
 - SFX asset list: `sfx-library.md`
 - Visual style reference: `apple-gallery-showcase.md`
-- In-depth audio analysis of Anthropic's three films: `/Users/alchain/Documents/Writing/01-OfficialAccount/Project/2026.04-huashu-design-launch/Reference Animations/AUDIO-BEST-PRACTICES.md`
-- huashu-design v9 case study: `/Users/alchain/Documents/Writing/01-OfficialAccount/Project/2026.04-huashu-design-launch/Visuals/hero-animation-v9-final.mp4`
+- In-depth audio analysis of Anthropic's three films: `AUDIO-BEST-PRACTICES.md` (in the original author's local workspace; not included in this repository)
+- huashu-design v9 case study: `hero-animation-v9-final.mp4` (in the original author's local workspace; not included in this repository)
